@@ -1,0 +1,38 @@
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\bin\Debug\net8.0-windows\proyecto integrador.exe
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\bin\Debug\net8.0-windows\proyecto integrador.deps.json
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\bin\Debug\net8.0-windows\proyecto integrador.runtimeconfig.json
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\bin\Debug\net8.0-windows\proyecto integrador.dll
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\bin\Debug\net8.0-windows\proyecto integrador.pdb
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\proyecto_integrador.Form1.resources
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\proyecto integrador.csproj.GenerateResource.cache
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\proyecto integrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\proyecto integrador.AssemblyInfoInputs.cache
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\proyecto integrador.AssemblyInfo.cs
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\proyecto integrador.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\proyecto integrador.dll
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\refint\proyecto integrador.dll
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\proyecto integrador.pdb
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\proyecto integrador.genruntimeconfig.cache
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\ref\proyecto integrador.dll
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\proyecto_integrador.Properties.Resources.resources
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\proyecto_integrador.FormPrincipal.resources
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\huguyg\proyecto integrador\obj\Debug\net8.0-windows\proyecto_integrador.FormRegistro.resources
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\bin\Debug\net8.0-windows\proyecto integrador.exe
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\bin\Debug\net8.0-windows\proyecto integrador.deps.json
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\bin\Debug\net8.0-windows\proyecto integrador.runtimeconfig.json
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\bin\Debug\net8.0-windows\proyecto integrador.dll
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\bin\Debug\net8.0-windows\proyecto integrador.pdb
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\proyecto_integrador.Form1.resources
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\proyecto_integrador.FormPrincipal.resources
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\proyecto_integrador.FormRegistro.resources
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\proyecto_integrador.Properties.Resources.resources
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\proyecto integrador.csproj.GenerateResource.cache
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\proyecto integrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\proyecto integrador.AssemblyInfoInputs.cache
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\proyecto integrador.AssemblyInfo.cs
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\proyecto integrador.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\proyecto integrador.dll
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\refint\proyecto integrador.dll
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\proyecto integrador.pdb
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\proyecto integrador.genruntimeconfig.cache
+C:\Users\Ryzen 7\Desktop\visual estudio\visual morado\proyecto integrador copia con modificaciones-20251014T212624Z-1-001\proyecto integrador copia con modificaciones\obj\Debug\net8.0-windows\ref\proyecto integrador.dll
